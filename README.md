@@ -1,2 +1,7 @@
 # optical-character-reader
-An OCR in multiple languages
+An OCR supporting multiple languages.
+
+Dependancies:
+
+1. python 2.7
+2. tesseract
